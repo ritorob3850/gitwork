@@ -1,0 +1,14 @@
+CHROME SEARCH QUICK COMMANDS:
+
+Copy-paste any of these into Claude Code:
+
+Search for Kubernetes:
+& "D:\claude\windowsautomation\.claude\skills\chrome-search\scripts\search_chrome.ps1" -SearchTerm "kubernetes"
+
+Search for Docker:
+& "D:\claude\windowsautomation\.claude\skills\chrome-search\scripts\search_chrome.ps1" -SearchTerm "docker"
+
+Search for Python:
+& "D:\claude\windowsautomation\.claude\skills\chrome-search\scripts\search_chrome.ps1" -SearchTerm "python"
+
+Just replace the search term as needed!
